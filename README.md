@@ -25,13 +25,3 @@ This folder takes the information gained in the weather database and uses Google
 ### Vacation Itinerary
 
 This folder takes the search information from the search folder and uses Google Maps directions API to create a vacation itinerary. For example, the image below shows a 4 stop itinerary in Northern California that features Ukiah, Carson City, Laguna, and Half Moon Bay.
-
-
-
-Also, as with the vacation search folder, there is a hotel at each location.
-
-
-
-### Bonus: Weather Data
-
-As an addon to these three folders, there is a weather data folder that has valuable linear regression models looking at the correlation between different weather infromation and latitude. These take into consideration the different weather information that are used in the weather database folder. Please view this if you are interested.
